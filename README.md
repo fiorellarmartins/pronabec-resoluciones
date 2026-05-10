@@ -30,6 +30,10 @@ Descargué 14,914 resoluciones jefaturales publicadas en el portal de transparen
     └── whitepaper_metodologia.md
 ```
 
+## Diagrama de flujo
+
+![Sankey PRONABEC](outputs/sankey_pronabec.png)
+
 ## Resultados
 
 | Resultado | Personas | % |
@@ -77,6 +81,10 @@ Automated analysis of jefatural resolutions from the Beca Presidente de la Repú
 └── docs/
     └── whitepaper_metodologia.md
 ```
+
+## Flow Diagram
+
+![Sankey PRONABEC](outputs/sankey_pronabec.png)
 
 ## Results
 
