@@ -42,7 +42,7 @@ Descargué 14,914 resoluciones jefaturales publicadas en el portal de transparen
 | Incumplimiento | 10 | 1.6% |
 | Nulidad | 5 | 0.8% |
 
-Los documentos fuente (PDFs y TXTs, ~15GB) no están incluidos en el repositorio.
+Los documentos fuente (PDFs y TXTs, ~15GB) no están incluidos en el repositorio. Están disponibles en OSF: [osf.io/74pjd](https://osf.io/74pjd)
 
 ---
 
@@ -90,4 +90,4 @@ Automated analysis of jefatural resolutions from the Beca Presidente de la Repú
 | Non-compliance | 10 | 1.6% |
 | Nullification | 5 | 0.8% |
 
-Source documents (PDFs and TXTs, ~15GB) are not included in this repository.
+Source documents (PDFs and TXTs, ~15GB) are not included in this repository. They are available on OSF: [osf.io/74pjd](https://osf.io/74pjd)
